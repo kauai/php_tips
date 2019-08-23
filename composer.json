@@ -1,0 +1,13 @@
+{
+    "name": "thiag/php-tips",
+    "authors": [
+        {
+            "name": "Thiago kauai",
+            "email": "html5ephp@gmail.com"
+        }
+    ],
+    "require": {
+        "coffeecode/cropper": "^1.2",
+        "fzaninotto/faker": "^1.8"
+    }
+}
